@@ -19,7 +19,7 @@
 
 #### brew install huggingface-cli 
 #### pip install -U "huggingface_hub"
-#### huggingface-cli login # token from huggingface access token section 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
+#### huggingface-cli login # token from huggingface access token section 
 
 #### pip install transformers
 #### pip install torch
